@@ -1,4 +1,6 @@
 $(function() {
+
+// gitのためのテストテキスト追加     
     
     $('.btn-trigger').on('click', function() {
         $(this).toggleClass('active');
